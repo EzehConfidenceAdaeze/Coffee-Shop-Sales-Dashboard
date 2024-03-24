@@ -1,4 +1,5 @@
 # Project Title: *Coffee Shop Sales Dashboard*
+<img src="image/CoffeeShopDashboard.png">
 ### Data Transformation:
 * Data Integration: Integrated Customer name, Email, Country, Coffee Type, Roast Type, Size, Unit Price, sales, and loyalty card into the orders data using functions like VLOOKUP and INDEXMATCH, alongside simple copy-paste operations.
 * Price Calculation: Derived sales by multiplying unit price with quantity.
